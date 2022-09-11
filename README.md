@@ -10,7 +10,7 @@ o software de forma democrática em alguma situação.
 <br>
 <h1><i> 📸 Imagens do Software executando </i></h1>
 <div>
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="500px" weidth="1000px">
 <img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
 <img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
 <img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
