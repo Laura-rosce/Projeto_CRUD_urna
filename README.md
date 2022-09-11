@@ -9,11 +9,10 @@ o software de forma democrática em alguma situação.
 <div>
 <br>
 <h1><i> 📸 Imagens do Software executando </i></h1>
-<div>
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="500px" weidth="1000px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" weidth="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="550px" width="1000px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189508600-fceaf27e-e5b7-4bba-ae4f-32ea273edf43.png" height="350px" width="500px">
