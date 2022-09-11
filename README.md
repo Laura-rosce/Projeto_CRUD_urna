@@ -10,11 +10,12 @@ o software de forma democrática em alguma situação.
 <br>
 <h1><i> 📸 Imagens do Software executando </i></h1>
 <img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="550px" width="1000px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189508857-c0b092c9-e7da-485d-935f-d9fac7c60f8c.png" height="350px" width="500px">
 <img src = "https://user-images.githubusercontent.com/93408918/189508656-4ec64def-1fe9-40f2-a85d-0264d1cdfc12.png" height="350px" width="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png" height="350px" width="500px">
-<img src = "https://user-images.githubusercontent.com/93408918/189508676-95dc04ab-8183-48bd-9985-8e60d55cda1c.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189508878-7593ac88-79c3-43f4-a00d-6e6fb40b47cd.png" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189508767-bfc2f672-76fd-4217-8d75-ddddf2dfe0f8.png" height="350px" width="500px">
+<img src = "" height="350px" width="500px">
+<img src = "https://user-images.githubusercontent.com/93408918/189507326-1a713916-36ac-40df-9035-d869f7aa34d3.png">
 <img src = "https://user-images.githubusercontent.com/93408918/189508600-fceaf27e-e5b7-4bba-ae4f-32ea273edf43.png" height="350px" width="500px">
 
 
